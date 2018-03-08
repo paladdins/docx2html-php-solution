@@ -5,8 +5,6 @@ This bundle is made from two modified open-source classes. The first perpose was
 
 Converts .docx files to HTML
 
-This is a PHP class that will convert your .docx files to HTML. It is by far not perfect, but will handle most things decently. Even images. Even in different issues of Word.
-
 The main class requires the following:
 
 - [The ZipArchive class](http://php.net/manual/en/class.ziparchive.php)
