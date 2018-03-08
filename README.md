@@ -21,4 +21,4 @@ The images' folder should have the same structure as "$dir_container/media" and 
 
 You can do what you want. I've made this repo just because I hadn't found any moretheless complete solution in php like this one.
 
-Would be nice you make pull requests in case you upgrade this bundle for your perposes.
+Would be nice if you make pull requests in case you modify this bundle during integration.
